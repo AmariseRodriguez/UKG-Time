@@ -3,7 +3,8 @@
 Amarise Rodriguez, Folasade Goddard, Jacquelyn Shelby, Rafael Ojeda Matos, Xiomara Campos
 
 ## Initial prompt:
-How can we use geolocation to make clocking in easier for everyone?
+How might we use location technology to recognize when someone arrives to and leaves from work?
+
 
 ## Our proposal:
 - By creating a web app, we can make the process seamless for clocking in and out while tracking location for UKG hourly employees.
